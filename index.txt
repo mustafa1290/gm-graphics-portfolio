@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logo Test</title>
+</head>
+<body>
+    <h1>Testing Logo Replacement</h1>
+    <img src="new-logo.png" alt="Test Logo" style="width: 200px;" />
+</body>
+</html>
